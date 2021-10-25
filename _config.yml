@@ -1,7 +1,7 @@
 # Site settings 配置站点
-title: '左耳的博客'
-description: '昵称左耳，千禧一代，web安全爱好者/伪极客/灵魂摄影师，热爱技术&设计。很高兴能在这里与你分享我对技术和生活的思考。'
-keyword: '王兆斌, 王兆斌的独立博客, 王兆斌的博客, 前端,web安全'
+title: 'C哥帅过吴彦祖的博客'
+description: '昵称C哥，web安全爱好者、爱好吹水，热爱技术&设计。很高兴能在这里与你分享我对技术和生活的思考。'
+keyword: '李充充, 李充充的独立博客, 李充充的博客, web安全'
 url: '' # your host
 
 # when build blog on server, if you don't need baseurl, you should leave this value blank.
@@ -24,8 +24,8 @@ footer:
   since: 2020
 
 # Author 配置博主信息
-author: '王兆斌'
-nickname: '左耳'
+author: '李充充'
+nickname: 'C哥帅过吴彦祖'
 bio: 'web安全爱好者，热爱技术&设计，简单乐观爱创造'
 avatar: '/assets/img/1.jpg'
 
